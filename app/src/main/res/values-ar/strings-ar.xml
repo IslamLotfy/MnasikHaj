@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="point1">النقطة رقم 1</string>
+    <string name="point2">النقطة رقم 2</string>
+    <string name="point3">النقطة رقم 3</string>
+    <string name="content">المحتوى :</string>
+    <string name="location">الموقع : </string>
+    <string name="choice">لقد قمت باختيار: </string>
+    <string name="hello">مرحبا، اجمد</string>
+
+
+</resources>

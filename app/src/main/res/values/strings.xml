@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MnasikHaj</string>
+    <string name="app_name">Mnasik Haj</string>
     <string name="title_activity_settings">Settings</string>
 
     <!-- Strings related to Settings -->
@@ -13,4 +13,14 @@
         <item>english</item>
         <item>arabic</item>
     </string-array>
+
+    <string name="point1">point number 1</string>
+    <string name="point2">point number 2</string>
+    <string name="point3">point number 3</string>
+    <string name="content">content: </string>
+    <string name="location">location: </string>
+    <string name="choice">you have choosen: </string>
+    <string name="hello">Hello, Ahamed</string>
+
+
 </resources>
